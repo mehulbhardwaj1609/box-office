@@ -8,3 +8,7 @@ React Styles with Styled Components Develop locally Clone this repo by running g
 Open package.json and change homepage from "https://shelooks16.github.io/box-office" to "https://YOUR_USERNAME.github.io/REPOSITORY_NAME"
 
 Run npm run deploy
+
+
+![image](https://user-images.githubusercontent.com/66671284/170851880-07304840-236c-4a17-b44f-b45854b11ef0.png)
+
