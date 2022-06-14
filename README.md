@@ -1,5 +1,6 @@
 # Box office
 
+Deployed: https://mehulbhardwaj1609.github.io/box-office
 ## Overview
 
 A movie search app that consumes an external API to display data.
